@@ -1,6 +1,8 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
+Инсталляция:
+- yarn install
+Запуск сервера:
+- yarn server
+Запуск клиентской части:
+- yarn start
+- Перейти на http://localhost:3000
