@@ -1,0 +1,50 @@
+{
+  "tweets": [
+    {
+      "id": 1,
+      "text": "this was sкекеhing youкs? idk T__T",
+      "user": {
+        "fullname": "anfпfu",
+        "username": "aпfy",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1226619642543624192/4BwE4CaZ_400x400.jpg"
+      }
+    },
+    {
+      "_id": "mxjzp4lljmm",
+      "text": "test text",
+      "user": {
+        "fullname": "Test fullname",
+        "username": "Test username",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1226619642543624192/4BwE4CaZ_400x400.jpg"
+      },
+      "id": 2
+    },
+    {
+      "_id": "jtaxwcbiqkk",
+      "text": "test text 2",
+      "user": {
+        "fullname": "Test fullname",
+        "username": "Test username",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1226619642543624192/4BwE4CaZ_400x400.jpg"
+      },
+      "id": 3
+    }
+  ],
+  "whoToRead": [
+    {
+      "username": "Watson Amelia holoEN",
+      "fullname": "watsonameliaEN",
+      "imageUrl": "https://pbs.twimg.com/profile_images/1318958836120649728/7JHxy2UO_400x400.jpg"
+    },
+    {
+      "username": "MarineSnow",
+      "fullname": "MarineSnow257",
+      "imageUrl": "https://pbs.twimg.com/profile_images/1373631943192027136/n5DVwwMN_400x400.jpg"
+    }
+  ],
+  "user": {
+    "fullname": "Ivan Karp",
+    "username": "1vankarp",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1405512979701977093/9QxAxP4b_400x400.jpg"
+  }
+}
