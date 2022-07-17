@@ -337,7 +337,10 @@ function App() {
           </div>
         </div>
 
-        <div onClick={saveData} className="buttonSave">
+        <div
+          hidden={!vkVisible && !tgVisible && !waVisible && !smsVisible}
+          onClick={saveData}
+          className="buttonSave">
           Сохранить
         </div>
       </div>
